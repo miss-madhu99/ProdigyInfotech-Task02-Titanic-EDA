@@ -81,6 +81,6 @@ Grateful to **Prodigy Infotech** for the opportunity to work on this data scienc
 ## 📌 Author
 
 **Madhu Kumari**  
-🌐 [LinkedIn](https://www.linkedin.com/) (add your link here)  
-📧 Email: your.email@example.com (optional)
+🌐 LinkedIn: https://www.linkedin.com/in/madhu-kumari-18b4a12b1/
+📧 Email: kumari.madhu93344@gmail.com
 
